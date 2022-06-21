@@ -1,16 +1,22 @@
-commit 8e2e027ce0e115499a552ac043f6889d35191101 (HEAD -> master, origin/master)
+commit 3900762d33c31ef82fee9e2c17b2149cd9cf9b75 (HEAD -> rnd)
 Author: prabhath <penprabh@publicisgroupe.net>
-Date:   Tue Jun 21 13:38:50 2022 +0530
+Date:   Tue Jun 21 15:48:53 2022 +0530
 
-    ui and backend files added
+    stash changes saved
 
-commit e4d0739a19599b69223a2ab61c41304901715d02 (origin/backend, backend)
+commit 057d471ef6f688883f25fe09b8c5140adb4af296
 Author: prabhath <penprabh@publicisgroupe.net>
-Date:   Tue Jun 21 13:36:48 2022 +0530
+Date:   Tue Jun 21 15:44:35 2022 +0530
 
-    added helloworld file
+    log.txt added
 
-commit 4160bc6741b2366dbb43d212633d6c0bfd603e4d (origin/ui)
+commit a765c9e9df98f777a3dc105e68447eb43bd3f19e
+Author: prabhath <penprabh@publicisgroupe.net>
+Date:   Tue Jun 21 15:39:11 2022 +0530
+
+    stash changes
+
+commit 4160bc6741b2366dbb43d212633d6c0bfd603e4d
 Author: prabhath <penprabh@publicisgroupe.net>
 Date:   Tue Jun 21 13:33:16 2022 +0530
 
@@ -21,20 +27,3 @@ Author: prabhath <penprabh@publicisgroupe.net>
 Date:   Tue Jun 21 13:32:30 2022 +0530
 
     ui files added
-commit 816b6994147d035285b5b9695eff9df049a77a3f (HEAD -> master)
-Author: prabhath <penprabh@publicisgroupe.net>
-Date:   Tue Jun 21 15:11:10 2022 +0530
-
-    removing third.txt
-
-commit c12318fe2fc6fc8220f1594af4b03c01a093ad07
-Author: prabhath <penprabh@publicisgroupe.net>
-Date:   Tue Jun 21 15:09:44 2022 +0530
-
-    adding fourth.txt
-
-commit b9f776f2384791baa4469111bbbe96a309792f1f
-Author: prabhath <penprabh@publicisgroupe.net>
-Date:   Tue Jun 21 15:08:49 2022 +0530
-
-    adding third.txt
